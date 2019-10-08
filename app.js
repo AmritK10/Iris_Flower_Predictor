@@ -11,7 +11,7 @@ app.get("/",function(req,res){
 });
 
 app.post("/iris", function(req, res) {
-	console.log(req.body)
+	// console.log(req.body)
   var options = {
     args:
     [
