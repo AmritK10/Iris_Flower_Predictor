@@ -1,0 +1,17 @@
+{
+  "name": "model_inegrate",
+  "version": "1.0.0",
+  "description": "attempt at integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amritk10",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "python-shell": "^1.0.8"
+  }
+}

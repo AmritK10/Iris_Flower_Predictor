@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+</head>
+<body>
+	<h1>Welcome to Iris Predictor!</h1>
+	<h3>Fill in the following form to predict the Flower: </h3>
+	<form action="/iris" method="POST">
+		<div>
+			<label for="sl">Sepal Length(in cm): </label>
+			<input id="sl" type="text" name="sepal_length" placeholder="sepal length" value=0>
+		</div>
+		<div>
+			<label for="sw">Sepal Width(in cm): </label>
+			<input id="sw" type="text" name="sepal_width" placeholder="sepal width" value=0>
+		</div>
+		<div>
+			<label for="pl">Petal Length(in cm): </label>
+			<input id="pl" type="text" name="petal_length" placeholder="petal length" value=0>
+		</div>
+		<div>
+			<label for="pw">Petal Width(in cm): </label>
+			<input id="pw" type="text" name="petal_width" placeholder="petal width" value=0>
+		</div>
+		<div>
+			<button>Submit!</button>
+		</div>
+	</form>
+</body>
+</html>
