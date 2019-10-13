@@ -3,6 +3,6 @@ A simple web app to predict a flower type from the iris dataset based on sepal a
 
 ## Demo
 ### Input the charactericts:
-<img width="474" alt="Screen Shot 2019-10-09 at 11 14 34 PM" src="https://user-images.githubusercontent.com/31596604/66507211-650c5800-eaec-11e9-95cb-f4e17a88c96f.png"> <br>
+<img width="501" alt="Screen Shot 2019-10-13 at 1 03 15 PM" src="https://user-images.githubusercontent.com/31596604/66712416-f401c480-edb9-11e9-83a3-c1073cf55683.png"> <br>
 ### Predicted flower:
-<img width="596" alt="Screen Shot 2019-10-09 at 11 14 41 PM" src="https://user-images.githubusercontent.com/31596604/66507213-676eb200-eaec-11e9-932e-9c24c4f43a6c.png">
+<img width="1440" alt="Screen Shot 2019-10-13 at 1 03 32 PM" src="https://user-images.githubusercontent.com/31596604/66712418-f6641e80-edb9-11e9-98a8-b0ba0d641e4f.png">
